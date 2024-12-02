@@ -19,16 +19,18 @@ Top & Least Sold Products: Analyze best and least-selling products to understand
 
 ## 📁 Dataset Overview
 
-Index	Product	Category	Sub Category	Brand	Sale Price	Market Price	Type	Rating	Description
 
-1	Garlic Oil	Beauty & Hygiene	Hair Care	Sri Sri Ayurveda	220.00	220.00	Hair Oil & Serum	4.1	Contains Garlic Oil...
-
-...	...	...	...	...	...	...	...	...	...
-
-Dataset Size: 27,555 rows × 10 columns
+                     Index	            Product	        Category	      Sub Category	      Brand	Sale Price	    Market Price	        Type	        Rating	        Description
+                    
+            1	    Garlic Oil	    Beauty & Hygiene  	Hair Care	    Sri Sri Ayurveda	          220.00	            220.00	    Hair Oil & Serum	    4.1	        Contains Garlic Oil...
+                    
+                    ...	                ...	              ...            	...	                    ...                	...	            ...            	...	                  ...	  
+                      
+                  
+                    Dataset Size: 27,555 rows × 10 columns
 
 Format: CSV file (BigBasket Products.csv)
-
+ data set download link : https://drive.google.com/file/d/11UQF9L0Q4DMclXuEk8Lt_q6eW8NjOXhX/view
 
 📊 Analysis and Visualizations
                                 
